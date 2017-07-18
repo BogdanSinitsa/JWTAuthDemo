@@ -1,0 +1,1 @@
+export const SECRET = 'sds333dc';
